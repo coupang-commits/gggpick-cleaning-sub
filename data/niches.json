@@ -1,22 +1,22 @@
 {
     "domain": "cleaning.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "로봇 청소기",
+        "청소 도구",
+        "세정제"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang cleaning items."
+        "로봇 청소기": {
+            "topic": "Robot vacuums, window cleaning robots.",
+            "role": "Smart cleaning expert."
         },
-        "수유/이유식": {
-            "topic": "cleaning bottle sterilizers, cleaning food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "청소 도구": {
+            "topic": "Mops, brooms, dustpans, scrubbers.",
+            "role": "Home cleaning curator."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "세정제": {
+            "topic": "Bathroom cleaners, kitchen degreasers.",
+            "role": "Detergent specialist."
         }
     }
 }
